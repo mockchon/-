@@ -12,6 +12,12 @@ h1 {
   margin:0;
   padding:20px;
 }
+input {
+
+  width:60px;
+  margin-left:281px;
+  padding:0;
+}
 ol {
   border-right:1px solid gray;
   width:280px;
